@@ -1,0 +1,5 @@
+Steps to create Fragments:
+
+Step 1 : Locate to the directory that contains the MainActivity.java or right click on the app folder 
+Step 2 : Click New -> Fragment ->Fragment(Blank)
+Step 3 : A Popup box will be displayed give the details of the fragment and click finish.
